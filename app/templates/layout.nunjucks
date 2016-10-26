@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- Mobile-friendly viewport -->
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="author" content="5uperbug">
+
+  <title></title>
+
+  <!-- SEO CRAP -->
+  <meta name="keywords" content="">
+  <meta name="description" content="Official ....">
+  <meta name="og:title" content=""/>
+  <meta name="og:type" content=""/>
+  <meta name="og:url" content=""/>
+  <meta name="og:image" content=""/>
+  <meta name="og:site_name" content=""/>
+  <meta name="og:description" content=""/>
+  <meta name="og:email" content=""/>
+  <meta name="og:phone_number" content=""/>
+  <meta name="og:street-address" content=""/>
+  <meta name="og:locality" content=""/>
+  <meta name="og:region" content=""/>
+  <meta name="og:postal-code" content=""/>
+  <meta name="og:country-name" content=""/>
+  <meta name="Robots" content="all"/>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <!-- You write code for this content block in another file -->
+  {% block content %} {% endblock %}
+
+  <!-- JS LIBS -->
+  <script src="bower_components/jquery/dist/jquery.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
