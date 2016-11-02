@@ -11,4 +11,5 @@ This is work in progress
 + SCSS
 + Minify + Concat, css and js
 + Live reload
++ Optimize images
 + Lint everything
