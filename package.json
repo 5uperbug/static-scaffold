@@ -14,6 +14,8 @@
     "gulp-html-prettify": "0.0.1",
     "gulp-nunjucks-render": "^2.0.0",
     "gulp-remove-empty-lines": "0.0.8",
-    "gulp-sass": "^2.3.2"
+    "gulp-sass": "^2.3.2",
+    "require-dir": "^0.3.1",
+    "requiredir": "^1.0.7"
   }
 }

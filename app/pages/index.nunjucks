@@ -2,6 +2,6 @@
 {% block content %}
   {% import "macros/nav-macro.nunjucks" as nav %}
   {{nav.active('home')}}
-  <h1>This is my index page</h1>
+  <h1>This is the index page</h1>
   {% include "partials/footer.nunjucks" %}
 {% endblock %}
